@@ -1,0 +1,28 @@
+name: Update new data
+
+on:
+  push:
+  schedule:
+    - cron: "10 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
+    - name: Run main
+      run: python main.py
+    - name: Commit data.csv if changed
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        if [ -n "$(git status --porcelain)" ]; then
+          git add .
+          git commit -m "Data update $(date +'%B %d, %Y %T (%Z)')"
+          git push origin $(git branch --show-current)
+        fi

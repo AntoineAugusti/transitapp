@@ -1,0 +1,321 @@
+country,region,slug,first_datetime
+Argentina,Buenos Aires,buenos-aires,2023-08-12T13:16:06
+Australia,Adelaide,adelaide,2023-08-12T13:16:06
+Australia,Brisbane,brisbane,2023-08-12T13:16:06
+Australia,Canberra,canberra,2023-08-12T13:16:06
+Australia,Melbourne & Victoria,melbourne-victoria,2023-08-12T13:16:06
+Australia,Perth & Western Australia,perth-western-australia,2023-08-12T13:16:06
+Australia,Sydney & New South Wales,sydney-new-south-wales,2023-08-12T13:16:06
+Belgium,Bruxelles,brussels,2023-08-12T13:16:06
+Belgium,Vlaanderen,flanders,2023-08-12T13:16:06
+Belgium,Wallonie,wallonia,2023-08-12T13:16:06
+Canada,Banff,banff,2023-08-12T13:16:06
+Canada,Simcoe County,simcoe-county-on,2023-08-12T13:16:06
+Canada,Belleville,belleville-on,2023-08-12T13:16:06
+Canada,Brockville,brockville-on,2023-08-12T13:16:06
+Canada,Calgary,calgary,2023-08-12T13:16:06
+Canada,Campbell River,campbell-river,2023-08-12T13:16:06
+Canada,Central Fraser Valley,central-fraser-valley,2023-08-12T13:16:06
+Canada,Chatham-Kent,chatham-kent,2023-08-12T13:16:06
+Canada,Comox Valley,comox-valley,2023-08-12T13:16:06
+Canada,Cornwall,cornwall-on,2023-08-12T13:16:06
+Canada,Cranbrook,cranbrook,2023-08-12T13:16:06
+Canada,Cowichan Valley,cowichan-valley,2023-08-12T13:16:06
+Canada,Dawson Creek,dawson-creek,2023-08-12T13:16:06
+Canada,Edmonton,edmonton,2023-08-12T13:16:06
+Canada,Fort McMurray,fort-mcmurray,2023-08-12T13:16:06
+Canada,Fort St. John,fort-st-john,2023-08-12T13:16:06
+Canada,Fredericton,fredericton,2023-08-12T13:16:06
+Canada,Gatineau,gatineau,2023-08-12T13:16:06
+Canada,Halifax,halifax,2023-08-12T13:16:06
+Canada,Kamloops,kamloops,2023-08-12T13:16:06
+Canada,Kelowna,kelowna,2023-08-12T13:16:06
+Canada,Kingston,kingston,2023-08-12T13:16:06
+Canada,Laurentides,laurentides,2023-08-12T13:16:06
+Canada,Lethbridge,lethbridge-ab-ca,2023-08-12T13:16:06
+Canada,London,london-on-ca,2023-08-12T13:16:06
+Canada,Medicine Hat,medicine-hat,2023-08-12T13:16:06
+Canada,Moncton,moncton,2023-08-12T13:16:06
+Canada,Montreal,montreal,2023-08-12T13:16:06
+Canada,Nanaimo,nanaimo,2023-08-12T13:16:06
+Canada,Niagara Region,niagara-region,2023-08-12T13:16:06
+Canada,"Norfolk County, ON",norkfolk-county-on,2023-08-12T13:16:06
+Canada,North Bay,northbay-on,2023-08-12T13:16:06
+Canada,Ottawa,ottawa,2023-08-12T13:16:06
+Canada,Peterborough,peterborough,2023-08-12T13:16:06
+Canada,Port Alberni,port-alberni,2023-08-12T13:16:06
+Canada,Powell River,powell-river,2023-08-12T13:16:06
+Canada,Prince George,prince-george,2023-08-12T13:16:06
+Canada,Quebec City,quebec,2023-08-12T13:16:06
+Canada,Red Deer,red-deer,2023-08-12T13:16:06
+Canada,Regina,regina,2023-08-12T13:16:06
+Canada,Saguenay,saguenay,2023-08-12T13:16:06
+Canada,"Saint John, NB",saint-john-nb,2023-08-12T13:16:06
+Canada,St. Thomas,stthomas-on-ca,2023-08-12T13:16:06
+Canada,Sarnia,sarnia,2023-08-12T13:16:06
+Canada,Saskatoon,saskatoon,2023-08-12T13:16:06
+Canada,Shawinigan,shawinigan,2023-08-12T13:16:06
+Canada,Sherbrooke,sherbrooke,2023-08-12T13:16:06
+Canada,Squamish,squamish,2023-08-12T13:16:06
+Canada,"St. John's, NL",st-johns,2023-08-12T13:16:06
+Canada,Sudbury,sudbury,2023-08-12T13:16:06
+Canada,Sunshine Coast,sunshine-coast,2023-08-12T13:16:06
+Canada,Sydney,sydney-ns,2023-08-12T13:16:06
+Canada,Thunder Bay,thunder-bay,2023-08-12T13:16:06
+Canada,Timmins,timmins-on,2023-08-12T13:16:06
+Canada,Toronto,toronto,2023-08-12T13:16:06
+Canada,Trois-Rivières,trois-rivieres,2023-08-12T13:16:06
+Canada,Vancouver,vancouver,2023-08-12T13:16:06
+Canada,Victoria,victoria,2023-08-12T13:16:06
+Canada,Vernon,vernon,2023-08-12T13:16:06
+Canada,Waterloo,waterloo-on,2023-08-12T13:16:06
+Canada,West Kootenay,west-kootenay,2023-08-12T13:16:06
+Canada,Windsor,windsor,2023-08-12T13:16:06
+Canada,Winnipeg,winnipeg,2023-08-12T13:16:06
+Canada,Whistler,whistler,2023-08-12T13:16:06
+Canada,Whitehorse,whitehorse,2023-08-12T13:16:06
+Canada,Yellowknife,yellowknife,2023-08-12T13:16:06
+Chile,Santiago,santiago-cl,2023-08-12T13:16:06
+France,Aix-Marseille-Provence,aix-marseille-provence,2023-08-12T13:16:06
+France,Angers,angers,2023-08-12T13:16:06
+France,Angoulême,angouleme,2023-08-12T13:16:06
+France,Annecy,annecy,2023-08-12T13:16:06
+France,Arles,arles,2023-08-12T13:16:06
+France,Auxerre,auxerre,2023-08-12T13:16:06
+France,Avignon,avignon,2023-08-12T13:16:06
+France,Belfort,belfort,2023-08-12T13:16:06
+France,Besançon,besancon,2023-08-12T13:16:06
+France,Béziers,beziers,2023-08-12T13:16:06
+France,Bordeaux,bordeaux,2023-08-12T13:16:06
+France,Brest,brest,2023-08-12T13:16:06
+France,Caen,caen,2023-08-12T13:16:06
+France,Cahors,cahors,2023-08-12T13:16:06
+France,Cannes,cannes,2023-08-12T13:16:06
+France,Clermont-Ferrand,clermont-ferrand,2023-08-12T13:16:06
+France,Cognac,cognac,2023-08-12T13:16:06
+France,Dijon,dijon,2023-08-12T13:16:06
+France,Fougères,fougeres,2023-08-12T13:16:06
+France,Grenoble,grenoble,2023-08-12T13:16:06
+France,La Rochelle,la-rochelle,2023-08-12T13:16:06
+France,Le Havre,le-havre,2023-08-12T13:16:06
+France,Le Mans,le-mans,2023-08-12T13:16:06
+France,Lille,lille,2023-08-12T13:16:06
+France,Lorient,lorient,2023-08-12T13:16:06
+France,Lyon,lyon,2023-08-12T13:16:06
+France,Metz,metz,2023-08-12T13:16:06
+France,Montpellier,montpellier,2023-08-12T13:16:06
+France,Nancy,nancy,2023-08-12T13:16:06
+France,Nantes,nantes,2023-08-12T13:16:06
+France,Nice,nice,2023-08-12T13:16:06
+France,Nîmes,nimes,2023-08-12T13:16:06
+France,Orléans,orleans,2023-08-12T13:16:06
+France,Paris Île-de-France,paris,2023-08-12T13:16:06
+France,Pays Basque,pays-basque,2023-08-12T13:16:06
+France,Perpignan,perpignan,2023-08-12T13:16:06
+France,Poitiers,poitiers,2023-08-12T13:16:06
+France,Reims,reims,2023-08-12T13:16:06
+France,Rennes,rennes,2023-08-12T13:16:06
+France,Rouen,rouen,2023-08-12T13:16:06
+France,Saint-Étienne,saint-etienne,2023-08-12T13:16:06
+France,Saint-Malo,saint-malo,2023-08-12T13:16:06
+France,Saint-Nazaire,saint-nazaire,2023-08-12T13:16:06
+France,Strasbourg,strasbourg,2023-08-12T13:16:06
+France,Toulon,toulon,2023-08-12T13:16:06
+France,Toulouse,toulouse,2023-08-12T13:16:06
+France,Tours,tours,2023-08-12T13:16:06
+France,Valenciennes,valenciennes,2023-08-12T13:16:06
+France,Vannes,vannes,2023-08-12T13:16:06
+France,Vendôme,vendome,2023-08-12T13:16:06
+Germany,Berlin & Brandenburg,berlin-brandenburg,2023-08-12T13:16:06
+Germany,Hamburg,hamburg,2023-08-12T13:16:06
+Germany,Ulm,ulm,2023-08-12T13:16:06
+Iceland,ReykjavÍk,reykjavik,2023-08-12T13:16:06
+Ireland,Dublin,dublin,2023-08-12T13:16:06
+Ireland,Galway,galway,2023-08-12T13:16:06
+Ireland,Cork,Cork,2023-08-12T13:16:06
+Ireland,Limerick,limerick,2023-08-12T13:16:06
+Italy,Bologna,bologna,2023-08-12T13:16:06
+Italy,Ferrara,ferrara,2023-08-12T13:16:06
+Italy,Milano,milano,2023-08-12T13:16:06
+Italy,Roma,roma,2023-08-12T13:16:06
+Luxembourg,Luxembourg,luxembourg,2023-08-12T13:16:06
+Mexico,Mexico City,mexico-city,2023-08-12T13:16:06
+Nicaragua,Managua,managua,2023-08-12T13:16:06
+Nicaragua,Estelí,esteli,2023-08-12T13:16:06
+Netherlands,North Brabant,noord-brabant-nl,2023-08-12T13:16:06
+Netherlands,Drenthe,drenthe-nl,2023-08-12T13:16:06
+Netherlands,Flevoland,flevoland-nl,2023-08-12T13:16:06
+Netherlands,Friesland,friesland-nl,2023-08-12T13:16:06
+Netherlands,Gelderland,gelderland-nl,2023-08-12T13:16:06
+Netherlands,Groningen,groningen-nl,2023-08-12T13:16:06
+Netherlands,North Holland,noord-holland-nl,2023-08-12T13:16:06
+Netherlands,South Holland,zuid-holland-nl,2023-08-12T13:16:06
+Netherlands,Limburg,limburg-nl,2023-08-12T13:16:06
+Netherlands,Overijssel,overijssel-nl,2023-08-12T13:16:06
+Netherlands,Utrecht,utrecht-nl,2023-08-12T13:16:06
+Netherlands,Zeeland,zeeland-nl,2023-08-12T13:16:06
+New Zealand,Auckland,auckland-nz,2023-08-12T13:16:06
+New Zealand,Christchurch,christchurch-nz,2023-08-12T13:16:06
+New Zealand,Dunedin,dunedin-nz,2023-08-12T13:16:06
+New Zealand,Hamilton,hamilton-nz,2023-08-12T13:16:06
+New Zealand,Nelson,nelson-nz,2023-08-12T13:16:06
+New Zealand,Queenstown,queenstown-nz,2023-08-12T13:16:06
+New Zealand,Taranaki,taranaki-nz,2023-08-12T13:16:06
+New Zealand,Tauranga,tauranga-nz,2023-08-12T13:16:06
+New Zealand,Wellington,wellington-nz,2023-08-12T13:16:06
+Spain,Barcelona,barcelona,2023-08-12T13:16:06
+Spain,Madrid,madrid,2023-08-12T13:16:06
+Spain,Tenerife,tenerife,2023-08-12T13:16:06
+Spain,Valencia,valencia,2023-08-12T13:16:06
+Sweden,Stockholm,stockholm,2023-08-12T13:16:06
+United Kingdom,London,london-uk,2023-08-12T13:16:06
+United Kingdom,Manchester,manchester,2023-08-12T13:16:06
+United Kingdom,North East,northeast-uk,2023-08-12T13:16:06
+United Kingdom,South West,southwest-uk,2023-08-12T13:16:06
+United States,Albany,albany,2023-08-12T13:16:06
+United States,Albuquerque,albuquerque,2023-08-12T13:16:06
+United States,Anchorage,anchorage,2023-08-12T13:16:06
+United States,Ann Arbor,ann-arbor,2023-08-12T13:16:06
+United States,Asheville,asheville-nc-us,2023-08-12T13:16:06
+United States,Aspen,aspen,2023-08-12T13:16:06
+United States,"Athens, OH",athens-oh,2023-08-12T13:16:06
+United States,Atlanta,atlanta,2023-08-12T13:16:06
+United States,"Austin, TX",austin-tx,2023-08-12T13:16:06
+United States,"Austin, MN",austin-mn,2023-08-12T13:16:06
+United States,Avalon,avalon,2023-08-12T13:16:06
+United States,Bakersfield,bakersfield,2023-08-12T13:16:06
+United States,Baltimore,baltimore,2023-08-12T13:16:06
+United States,Bellingham,bellingham,2023-08-12T13:16:06
+United States,Bend,bend,2023-08-12T13:16:06
+United States,Binghamton,binghamton,2023-08-12T13:16:06
+United States,Blacksburg,blacksburg,2023-08-12T13:16:06
+United States,Boise,boise,2023-08-12T13:16:06
+United States,Boston,boston,2023-08-12T13:16:06
+United States,"Bowling Green, KY",bowling-green-ky,2023-08-12T13:16:06
+United States,Buffalo,buffalo,2023-08-12T13:16:06
+United States,Carson City,carson-city,2023-08-12T13:16:06
+United States,Central Massachusetts,central-ma,2023-08-12T13:16:06
+United States,Charleston,charleston-sc,2023-08-12T13:16:06
+United States,Charlotte,charlotte-nc,2023-08-12T13:16:06
+United States,Charlottesville,charlottesville,2023-08-12T13:16:06
+United States,Chattanooga,chattanooga,2023-08-12T13:16:06
+United States,Chicago,chicago,2023-08-12T13:16:06
+United States,Cincinnati,cincinnati,2023-08-12T13:16:06
+United States,Northeast Ohio,cleveland,2023-08-12T13:16:06
+United States,Colorado Springs,colorado-springs,2023-08-12T13:16:06
+United States,Columbus,columbus,2023-08-12T13:16:06
+United States,"Columbia, SC",columbia-sc,2023-08-12T13:16:06
+United States,Connecticut,connecticut,2023-08-12T13:16:06
+United States,Corvallis,corvallis,2023-08-12T13:16:06
+United States,Crescent City,crescent-city,2023-08-12T13:16:06
+United States,Dallas,dallas,2023-08-12T13:16:06
+United States,Dayton,dayton-oh,2023-08-12T13:16:06
+United States,Denver,denver,2023-08-12T13:16:06
+United States,Detroit,detroit,2023-08-12T13:16:06
+United States,Duluth,duluth,2023-08-12T13:16:06
+United States,Eastern Sierra,eastern-sierra,2023-08-12T13:16:06
+United States,Eau Claire,eau-claire,2023-08-12T13:16:06
+United States,El Paso,el-paso,2023-08-12T13:16:06
+United States,Ellensburg,ellensburg,2023-08-12T13:16:06
+United States,Erie,erie,2023-08-12T13:16:06
+United States,Eugene,eugene,2023-08-12T13:16:06
+United States,Eureka,eureka,2023-08-12T13:16:06
+United States,Fergus Falls,fergus-falls,2023-08-12T13:16:06
+United States,Frederick,frederick,2023-08-12T13:16:06
+United States,Fresno,fresno,2023-08-12T13:16:06
+United States,Fort Myers,fort-myers,2023-08-12T13:16:06
+United States,Grand Rapids,grand-rapids,2023-08-12T13:16:06
+United States,"Gunnison Valley, CO",gunnison-valley-co,2023-08-12T13:16:06
+United States,Hampton Roads,hampton-roads,2023-08-12T13:16:06
+United States,Harrisburg,harrisburg-pa,2023-08-12T13:16:06
+United States,Hawai'i,hawaii,2023-08-12T13:16:06
+United States,Honolulu,honolulu,2023-08-12T13:16:06
+United States,Houston,houston,2023-08-12T13:16:06
+United States,Indianapolis,indianapolis,2023-08-12T13:16:06
+United States,Iowa City,iowa-city,2023-08-12T13:16:06
+United States,Ithaca,ithaca,2023-08-12T13:16:06
+United States,"Jackson, WY",jackson-wy,2023-08-12T13:16:06
+United States,"Jacksonville, FL",jacksonville,2023-08-12T13:16:06
+United States,Juneau,juneau,2023-08-12T13:16:06
+United States,Kalamazoo,kalamazoo,2023-08-12T13:16:06
+United States,Kansas City,kansas-city,2023-08-12T13:16:06
+United States,Kau'i,kaui,2023-08-12T13:16:06
+United States,Kingsport,kingsport,2023-08-12T13:16:06
+United States,Knoxville,knoxville,2023-08-12T13:16:06
+United States,"Lafayette, IN",Lafayette,2023-08-12T13:16:06
+United States,Lake Tahoe,lake-tahoe,2023-08-12T13:16:06
+United States,Lansing,lansing,2023-08-12T13:16:06
+United States,Las Vegas,las-vegas,2023-08-12T13:16:06
+United States,"Lexington, KY",lexington-ky,2023-08-12T13:16:06
+United States,Los Angeles,los-angeles,2023-08-12T13:16:06
+United States,Louisville,louisville,2023-08-12T13:16:06
+United States,Lynchburg,lynchburg-va,2023-08-12T13:16:06
+United States,Madison,madison,2023-08-12T13:16:06
+United States,"Manhattan, KS",manhattan-ks,2023-08-12T13:16:06
+United States,"Mankato, MN",mankato-mn,2023-08-12T13:16:06
+United States,"Marshall, MN",marshall-mn,2023-08-12T13:16:06
+United States,Martha's Vineyard,marthas-vineyard,2023-08-12T13:16:06
+United States,"Medford, OR",medford-or,2023-08-12T13:16:06
+United States,Memphis,memphis-tn,2023-08-12T13:16:06
+United States,South Florida,miami,2023-08-12T13:16:06
+United States,Milwaukee,milwaukee,2023-08-12T13:16:06
+United States,Minneapolis-Saint Paul,minneapolis-saint-paul,2023-08-12T13:16:06
+United States,Missoula,missoula,2023-08-12T13:16:06
+United States,Modesto,modesto,2023-08-12T13:16:06
+United States,Monterey,monterey,2023-08-12T13:16:06
+United States,Montevideo,montevideo,2023-08-12T13:16:06
+United States,"Morris, MN",morris-mn,2023-08-12T13:16:06
+United States,Nashville,nashville,2023-08-12T13:16:06
+United States,New Orleans,new-orleans,2023-08-12T13:16:06
+United States,New York City,new-york,2023-08-12T13:16:06
+United States,Oklahoma City,okc,2023-08-12T13:16:06
+United States,Northwest Oregon,nw-or,2023-08-12T13:16:06
+United States,Orlando,orlando,2023-08-12T13:16:06
+United States,Panama City,panama-city-fl,2023-08-12T13:16:06
+United States,Northeastern Pennsylvania,ne-pa,2023-08-12T13:16:06
+United States,Philadelphia,philadelphia,2023-08-12T13:16:06
+United States,Phoenix,phoenix,2023-08-12T13:16:06
+United States,Pittsburgh,pittsburgh,2023-08-12T13:16:06
+United States,Providence,providence,2023-08-12T13:16:06
+United States,"Portland, ME",portland-me,2023-08-12T13:16:06
+United States,"Portland, OR",portland-or-vancouver-wa,2023-08-12T13:16:06
+United States,Quad Cities,quad-cities,2023-08-12T13:16:06
+United States,Raleigh-Durham,raleigh-nc-us,2023-08-12T13:16:06
+United States,"Redding, CA",redding-ca,2023-08-12T13:16:06
+United States,Reno-Sparks,reno-nv,2023-08-12T13:16:06
+United States,"Richmond, VA",richmond-va,2023-08-12T13:16:06
+United States,"Rochester, NY",rochester-ny,2023-08-12T13:16:06
+United States,"Rochester, MN",rochester-mn,2023-08-12T13:16:06
+United States,Sacramento,sacramento,2023-08-12T13:16:06
+United States,"Salem, OR",salem-or,2023-08-12T13:16:06
+United States,"Salina, KS",salina-ks,2023-08-12T13:16:06
+United States,Salt Lake City,salt-lakecity,2023-08-12T13:16:06
+United States,San Antonio,san-antonio,2023-08-12T13:16:06
+United States,San Diego,san-diego,2023-08-12T13:16:06
+United States,SF Bay Area,sf-bay-area,2023-08-12T13:16:06
+United States,Sandusky,sandusky-oh,2023-08-12T13:16:06
+United States,Santa Barbara County,santa-barbara-ca,2023-08-12T13:16:06
+United States,Santa Cruz,santa-cruz,2023-08-12T13:16:06
+United States,Savannah,savannah,2023-08-12T13:16:06
+United States,Seattle,seattle,2023-08-12T13:16:06
+United States,South Bend,south-bend,2023-08-12T13:16:06
+United States,Spokane,spokane,2023-08-12T13:16:06
+United States,"Springfield, MO",springfield-mo,2023-08-12T13:16:06
+United States,"St. Louis, MO",st-louis-mo,2023-08-12T13:16:06
+United States,"St. Cloud, MN",st-cloud-mn,2023-08-12T13:16:06
+United States,State College,state-college,2023-08-12T13:16:06
+United States,Stockton,stockton,2023-08-12T13:16:06
+United States,Tallahassee,tallahassee-fl,2023-08-12T13:16:06
+United States,Tampa Bay Area,tampa-bay-area,2023-08-12T13:16:06
+United States,Toledo,toldeo-oh,2023-08-12T13:16:06
+United States,"Tri-Cities, WA",tri-cities-wa,2023-08-12T13:16:06
+United States,Tulsa,tulsa-ok,2023-08-12T13:16:06
+United States,Vermont,vt,2023-08-12T13:16:06
+United States,Visalia,visalia-ca,2023-08-12T13:16:06
+United States,"Washington, DC",washington-dc,2023-08-12T13:16:06
+United States,"Williamsburg, VA",williamsburg-va,2023-08-12T13:16:06
+United States,Willmar,willmar-mn,2023-08-12T13:16:06
+United States,"Wilmington, DE",wilmington-de,2023-08-12T13:16:06
+United States,Worcester,worcester,2023-08-12T13:16:06
+United States,"York, PA",york-pa,2023-08-12T13:16:06
+United States,Zanesville,zanesville-oh,2023-08-12T13:16:06
